@@ -1,0 +1,224 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-body background-color="#fff" />
+
+
+            <mj-all font-family="'Plain Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="600px">
+        <!-- logo section -->
+        <mj-section background-color="#00444e" padding="5px 0">
+            <mj-column>
+                <mj-image
+                    src="https://d3k81ch9hvuctc.cloudfront.net/company/SnmteT/images/3ead5273-6de0-4990-b230-ecb1b496c393.png"
+                    alt="" width="118px" href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqiRbtTfjuSdPjZFjWCsUI5TbL7lNO5vWL4REnI2NeaVQPVmbLgT4n1G2zymHj4bLFVAt1PaVEtCAWCBVH1tWLQFS6YdaOCp-2FktTwpYIqY-2FEzYAtD1n-2FLq6BMMtHL0wz0XRr7bx2lp9G-2BdV3u5dWDbQEBR9RnDTjHiPgnrSKvUV2p5mGE0XjJTtBzLkB5dOVtWcW7c1CiuThnIvZ-2BJG7VAytOQ-2BsFCleeFRMCnkFZPO-2BKK-2B3rpD0038XgnTgByFFEJR4UpS7Yd3pRcWYdQWxwh7E-3D0Bvl_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbv-2BDfRtU-2BKB-2BElkPymL0x10V-2BzbYrihfUz9dkcQ4AMRm8fHIVGxRj-2BQPe58UTUeInSBgKs7mBYJTM5N1TIJRadfzgTQRpwRbhb36YyWLNnM0o7MgpOEH0U1d5rgzHumR-2FvhSZ6uSRSkdoD8EEgeWXuq1cF1SNaaceodi2zRH4LMFZlyyelC0tDYJGdSVpeqaYF" />
+            </mj-column>
+        </mj-section>
+        <!-- logo section -->
+        <!-- banner text -->
+        <mj-section background-color="#dff3eb" padding="2px 0">
+            <mj-column>
+                <mj-text css-class="heading__text" color="#00444e" font-size="28px" font-weight="500px" align="center">
+                    Does inositol support sleep?
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- banner text -->
+        <!-- banner image -->
+        <mj-section background-color="#dff3eb" padding="0">
+            <mj-column>
+                <mj-image
+                    src="https://d3k81ch9hvuctc.cloudfront.net/company/SnmteT/images/34cc759e-da44-43c0-b29b-189c45563d9c.jpeg"
+                    alt="" width="550px" href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqpn4nGXD7f2QRLatbPqcFh-2Fm61TfuiaGwbXTZdIPQU6CEU2-2B-2BD02DaWFIFNshL4qkdfnp2BZNLGTnUc8-2BuJLysomshxvCEfrCFrSwOFGzQ-2FqU9WyQ5Fo9lFoqZhjpe6V6FPSB3-2FpoesdFmbVoBORKDleAP5Tr93jn5DmAGaO-2FmQy-2B5w9ZxXK6xlEClmWPAgMXK3dpBy-2B5R0Bi5DJaIDaMw2m3ajA2w28pwaIPZYOfk-2FHWryIZ1ATE6htmapjMH8gt5vN-2FSeg7Fvlxbu-2BLcHtYh9He5Ubb5EV7kZNFO-2B-2Bg4Dctqm390OgcSL6eoc-2FOq2n5A-3D-3DE_qZ_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbv6aNARs5j-2B60Be65t5u6m6aVtpzDiwB8RKFin6qWWBuUNEAudQ-2FtuKwVVN9SzyehTeSsWOLfs3LH7qH-2BFiqIftXrH6fUhTPDWBc6F61C5Dipj5aZXwn47sXc7ka8uM-2BGnGjQRO-2BMCakNW6t2mafdaMftChWuyoeRVqL-2F6WsFXhCAvrDTq-2FLzPDnIpiMUD8WTp" />
+            </mj-column>
+        </mj-section>
+        <!-- banner image -->
+        <!-- product description section -->
+        <mj-section background-color="#dff3eb" padding="0 0 10px">
+            <mj-column>
+                <mj-text align="left" font-size="18px" color="#00444e">
+                    Inositol has been widely praised for its effects on ovarian health and cycle regularity, but are you
+                    wondering if inositol may also help you get better sleep? Research is still limited, but there is
+                    some interesting data connecting inositol to circadian rhythms, sleep quality, and sleep hormones.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- product description section -->
+        <!-- button section 1 -->
+        <mj-section background-color="#dff3eb" padding="0 0 10px">
+            <mj-column>
+                <mj-button color="#00444e" background-color="#dff3eb" border="2px solid #00444e" border-radius="16px" href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqpn4nGXD7f2QRLatbPqcFh-2Fm61TfuiaGwbXTZdIPQU6CEU2-2B-2BD02DaWFIFNshL4qkdfnp2BZNLGTnUc8-2BuJLysomshxvCEfrCFrSwOFGzQ-2FqU9WyQ5Fo9lFoqZhjpe6V6FPSB3-2FpoesdFmbVoBORKDleAP5Tr93jn5DmAGaO-2FmQy-2B5w9ZxXK6xlEClmWPAgMXK3dpBy-2B5R0Bi5DJaIDaMw2m3ajA2w28pwaIPZYOfk-2FHWryIZ1ATE6htmapjMH8gt5vN-2FSeg7Fvlxbu-2BLcHtYh9He5Ubb5EV7kZNFO-2B-2Bg4Dctqm390OgcSL6eoc-2FOq2n5A-3D-3DKLrJ_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvAlp4EXP1HmQdjdHohNX-2BoUybnfRjM1WRq9zVBM8kjV4Gtv4-2F3Ti0o5WJCmob3RLU-2B0uzrF60Xy9mnpSuVUvXn5WeogM6PQnVnSoG8yROzEfXPesMjqiSU0Sv132RAlO-2Btu1lU-2FmpNp-2BCOzFFLb9A7ugbnwKjeRl20dAlJvOx8stJwnyIDwD0slfZDJhUrccl"
+                    font-weight="800" font-size="16px" inner-padding="5px 12px">
+                    Learn More &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; ➔
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!-- button section 1 -->
+        <!-- header/divider -->
+        <mj-section background-color="#dff3eb" padding="0">
+            <mj-column>
+                <mj-text color="#00444e" font-size="14px" align="center" padding="0" font-weight="800"
+                    text-transform="uppercase" letter-spacing="1.1px">
+                    Shop
+                </mj-text>
+                <mj-divider padding="2px 0 0" border-width="2px" border-style="solid" width="70px" border-color="#00444e" />
+            </mj-column>
+        </mj-section>
+        <!-- header/divider -->
+        <!-- product display -->
+        <mj-section background-color="#dff3eb">
+            <mj-column width="265px" padding="0">
+                <mj-text align="center" padding="0">
+                    <a href="https://natalist.com/blogs/learn/inositol-for-sleep?utm_source=Klaviyo&utm_medium=email&utm_campaign=05.28.2023%20Inositol%20for%20Sleep%20%282023-05-28%29&_kx=59O4U5Ds6j5abq98tWDh6-f9NAKniR3UD9W_ADSgWrWsSIdPzJIpn31oWhgXwknk.SnmteT" align="center">
+                        <img src="https://cdn.shopify.com/s/files/1/0092/0862/7305/products/cycle_support_bundle_hero_image.jpg?v=1668107197"
+                            alt="" width="265px">
+                    </a>
+                </mj-text>
+                <mj-text align="center" color="#00444e" font-weight="800" padding="10px" font-size="15px">
+                    Cycle Support Bundle
+                </mj-text>
+                <mj-button color="#00444e" padding="0" background-color="#f1f381" border-radius="16px"
+                    inner-padding="8px 18px" font-weight="800" href="https://natalist.com/blogs/learn/inositol-for-sleep?utm_source=Klaviyo&utm_medium=email&utm_campaign=05.28.2023%20Inositol%20for%20Sleep%20%282023-05-28%29&_kx=59O4U5Ds6j5abq98tWDh6-f9NAKniR3UD9W_ADSgWrWsSIdPzJIpn31oWhgXwknk.SnmteT">
+                    Shop Now
+                </mj-button>
+            </mj-column>
+            <mj-column width="15px">
+                
+            </mj-column>
+            <mj-column padding="0" width="265px">
+                <mj-text align="center" padding="0">
+                    <a href="https://natalist.com/products/prenatal-drink-mix-duo?utm_source=Klaviyo&utm_medium=email&utm_campaign=05.28.2023%20Inositol%20for%20Sleep%20%282023-05-28%29&_kx=59O4U5Ds6j5abq98tWDh6-f9NAKniR3UD9W_ADSgWrWsSIdPzJIpn31oWhgXwknk.SnmteT" align="center">
+                        <img src="https://cdn.shopify.com/s/files/1/0092/0862/7305/products/Natalist-electrolyte-drink-mix-and-magnesium.webp?v=1680109303"
+                            alt="" width="265px">
+                    </a>
+                </mj-text>
+                <mj-text align="center" color="#00444e" font-weight="800" padding="10px" font-size="15px">
+                    Drink Mix Duo
+                </mj-text>
+                <mj-button color="#00444e" padding="0" background-color="#f1f381" border-radius="16px" href="https://natalist.com/products/prenatal-drink-mix-duo?utm_source=Klaviyo&utm_medium=email&utm_campaign=05.28.2023%20Inositol%20for%20Sleep%20%282023-05-28%29&_kx=59O4U5Ds6j5abq98tWDh6-f9NAKniR3UD9W_ADSgWrWsSIdPzJIpn31oWhgXwknk.SnmteT"
+                    inner-padding="8px 18px" font-weight="800">
+                    Shop Now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!-- product display -->
+        <!-- header/divider -->
+        <mj-section background-color="#dff3eb" padding="0 0 10px">
+            <mj-column>
+                <mj-text color="#00444e" font-size="14px" align="center" padding="0" font-weight="800"
+                    text-transform="uppercase" letter-spacing="1.1px">
+                    Trending Topics
+                </mj-text>
+                <mj-divider padding="2px" border-width="2px" border-style="solid" width="70px" border-color="#00444e" />
+            </mj-column>
+        </mj-section>
+        <!-- header/divider -->
+        <!-- trending section -->
+        <mj-section background-color="#dff3eb" padding="0 0 10px">
+            <mj-column>
+                <mj-text font-size="18px" color="#00444e">
+                    <mj-raw>
+                        <ul style="list-style:'➔';list-style-position: outside;margin: 0;padding-left: 20px;">
+                            <li style="padding:3px 0 3px 3px"><a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqpn4nGXD7f2QRLatbPqcFh-2Fm61TfuiaGwbXTZdIPQU6CboL2f53XgdxuoKC3dmeHKV8t8vZC0T-2FwP9gPqQO-2BPrwFUZSqJGCSGyw7SaFcKfscXWYoa2KaYKwYBSKQof9pV7GWgOyhg4t8qp6Aw1NVFVaf-2BoaJd0BzxZICJbyRCQ0gii-2FS7MD-2BDDHXopoE9a-2FkjZp4VFnSdaELK60ywvryv1OmlWu3uFVZWmecRMM3-2BMWiLj5EiNoYOYhyJy-2Fq7uxFM7UjPoDsEz-2FU-2BJq5AxFUIXBTdel5Yczbts7lv0MdhRg4Q2hojHHi-2FtvHCYY0dXwNVg-3D-3DToiW_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbv3kqmSKQrBh5CFINiEmKevOxrSdflglR0pwiim-2BsulWuTOrvN-2FmD13BL0Qp0W-2BI-2FE1Fb-2Bdg8RbaDCZwIDjekdcnt32LWoUqdBNX9qo9QofnBvEbeLfNTleCBobeTnLP-2BuDWACI-2FHCYgnkDjTcCzgPLcLm0dQrNywcKl5TvihxaO9kNOZNw4T-2BKL1CsZISF3CR" style="color:#00444e;">How are PCOS, Inositol,
+                                    and Weight Connected?</a></li>
+                            <li style="padding:3px 0 3px 3px"><a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqpn4nGXD7f2QRLatbPqcFh9EgyxQdhUuoedwtR4jQSxF8LGCPYKZBjxtraUIVMklShVYUDkq6cdx0IeYRmcqbPgsqUY7202zMfNJrpdMA3Sc-2FtbdNXYdDSWTB5VI2bGs2rXq20THPmBj-2BJAhsD7SqZsceSe4okyJHuCW7HmTaGv24RMv6Ds3NHU56CPLD0hue2WNUes6H8sPWTmFna-2Fj36VWe11GOso3HHN1stgrhPWmzwrftrQUbuEjxJKBisEsQdYOkvSwL2kFpDCRq8kjlB4Xxmd7kwyNUDvrHLbzl3Drg8r-2B8fa5jpRDawKm8PkkFw-3D-3DN00j_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvumnGtgwlW41HQRkMJuvzGaFwBZxXBfYo54WhbG5qCBQKPUJX26Py36WxISgCqrJm3SpvpxsI4GOkqfEmN7ggfnyxJgJYC92iGOlYJlpAPwkYb9KPk-2FsBq6cRoqsWgXcGB4bBZl5envFeBS2hZNIVodtbp8zSh6-2B1jHUKsQ1wHMyvxvAmfUPaOwTOptiEu6y2" style="color:#00444e;">Self-Care for
+                                    Endometriosis: Tips for Relief</a></li>
+                            <li style="padding:3px 0 3px 3px"><a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqpn4nGXD7f2QRLatbPqcFh9GpnB-2BpEI5pHP2T1oSV1YDLbMDX3dAL9rwDfrAFOdoSMoy-2Bbok-2BraEjpq7Qs9qSrRS6TTEb8akOs7-2BmJqQUtp5NuiBg4tpUPFFR50a0D2GpWMirjDelmD38UbDBY5paxaXy-2BKXkBjNfNGWnem52Fk6BmOhmRYtsD3VAkens9PENuFVPwqlcVOU4TDQk-2FLCoQ8p3idEqie06ZQwx7MbL71WXzZYFXIoDSG39e1gMwVUhL39ZQJxSsXMwuJG3Cec-2B8GJ6xaLy5iR4kxaABzNtfu9RwRCLNX85412m-2FxfVkAsNw-3D-3DpsOM_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbv-2FgF2aEyLOPJLNl1LxvxSfrVEEmQ1sTjPTkIQgHW2ah3CQtUUrGOJDYJ-2FMhiDYNCHpnIKajGvBvDiACzwl-2FegUPGJQOYWNHreG2CChPH-2BMsO5GaNzQ9cUfsc7fLd1Orqxp5TYzNobiVLAXSG7cNv-2BweBZDdkrcbH3GuZymIZ4lCESsGTKy4bVRkhmfi8uaS34" style="color:#00444e;">Top Inositol-Rich Foods
+                                    to Boost Your Health</a></li>
+                        </ul>
+                    </mj-raw>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- trending section -->
+        <!-- subcribe & save section -->
+        <mj-section background-color="#00444e" padding="5px 0">
+            <mj-column>
+                <mj-text align="center" font-size="28px" color="#dff3eb">
+                    Subscribe & Save
+                </mj-text>
+                <mj-text align="center" font-size="18px" color="#dff3eb" padding="5px 35px" line-height="1.3">
+                    Extra savings, free shipping on all recurring orders, and the flexibility to change, pause, or
+                    cancel your subscription order at any time.
+                </mj-text>
+                <mj-text align="center" font-size="18px" color="#dff3eb" padding="5px 35px" line-height="1.3">
+                    All month long, we’re giving you an extra 10% off your first order of supplement subscriptions with
+                    code FLOWERS23.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- subcribe & save section -->
+        <!-- button section 2 -->
+        <mj-section background-color="#00444e" padding="0 0 10px">
+            <mj-column>
+                <mj-button color="#dff3eb" background-color="#00444e" border="2px solid #dff3eb" border-radius="16px" href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqv06RwDQ0XjTXxklbMZQ1mg0N98VXP0px-2FYHwcf2ZFAzwVzQKeKah7kcFSjoj0Xyy6zsdIeVNRW1cN1X-2Fh-2BQ2vIn0tdkgOsrQW8MYWp7qyxoYlhR9-2FwP8XIdTkD5xcb4H3yZ6O27apO2JEfNl9PaIOnD9xnMedmoDL37y9N2RS4vKmmM28SYTln6VlZa3MV4e3KSY-2FrX1VrljQcyVRuEZ3LutolB2vCfRW9Cbp1ffRicKX1uTYyCWWicSG0UvJ9YjLZPHEHpvO2KVGjfP0-2BPyJtnu36Ism9uGy9Q99bvAErESo20_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvFRmnVafdF-2BA0droN3kPPOm1SBcmf4Z1Ov5uUoU-2FjWysvPXwJe-2FmV6rkXdsYjEuDPabHzI5BUN889jByUR-2BemKsasdMRL-2B4lAzyDE5yWAyLqEP4rV-2FC8RJh6GejTCu9Hu43HU2SNJPJY9je1YtXBXgaHCWK0h6JKlOvxzm-2B2asIKCPkYU2ytpp8ET2uqnlAQr"
+                    font-weight="800" font-size="16px" inner-padding="5px 12px">
+                    Explore Supplements &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; ➔
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!-- button section 2 -->
+        <!-- bottom logo -->
+        <mj-section background-color="#dff3eb" padding="10px 0 0 0 ">
+            <mj-column>
+                <mj-image
+                    src="https://d3k81ch9hvuctc.cloudfront.net/company/SnmteT/images/55595319-8ca3-4972-a944-04aa62f33e64.png"
+                    alt="" width="195px"href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqiRbtTfjuSdPjZFjWCsUI5TbL7lNO5vWL4REnI2NeaVQPVmbLgT4n1G2zymHj4bLFVAt1PaVEtCAWCBVH1tWLQFS6YdaOCp-2FktTwpYIqY-2FEzYAtD1n-2FLq6BMMtHL0wz0XRr7bx2lp9G-2BdV3u5dWDbQEBR9RnDTjHiPgnrSKvUV2p5mGE0XjJTtBzLkB5dOVtWcW7c1CiuThnIvZ-2BJG7VAytOQ-2BsFCleeFRMCnkFZPO-2BKK-2B3rpD0038XgnTgByFFEJR4UpS7Yd3pRcWYdQWxwh7E-3DwuPD_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvh6Wm5HoTY4vaLgX7YLOQLkwhn1gs4pPQuF1x64VCOHJ9N1gmjTQ45L8KcSkeBUEsMCqN16Ye9CThBhVpsn6gwv-2FUs6sIvMiUj4ulqSa4nRdxq3svCZJPo1NfpibGZ8RqWWKlPhXuicLJoQK4L6Er2UvPD3x8qnDyv2y8ehYQXQrFlRYYQGj9c7P5nwpgmqKI"/>
+            </mj-column>
+        </mj-section>
+        <!-- bottom logo -->
+        <!-- social links -->
+        <mj-section background-color="#dff3eb" padding="0 0 5px">
+            <mj-column padding="0">
+                <mj-text align="center">
+                    <a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqgYty2WYWxwDqxopdCAZHWWiWMIpDiIiXseQtPOEeq8OzK6-2BudiP4lwpmDIl-2BhVDUmTUs0Ss5dJvFVOY2UrHXCW-2BVbPZjRuNapvbs2wXszaaPSd75eAvtQgCoeapVGO8RrXTb14OXij3hD06E9BKOEQhVBEjyzgdOiYIB7xHbOr2-2FFkt3OdilC4cR767dG6BO48VL1InI-2B6VFDyvHXcTtf5VyMH2m-2FUdILi5yuFfz8ye9dCRbO49YYjV8-2BKnF9tlJArlqx7jNCJby-2F5sofoy9QsTa9kHMNA9LL-2BuhS2CoY1VHiVC_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvXFz21fB-2BisK0k-2BrVj9fPqoykeSv8-2BwGTyptpVQf66GEaK3q5Wk78rTc1ieb2hIGWtJiDGRDFuJ-2BVQLQE1Rb-2BYNngkzAG0sXao-2BtBhBl1WoopkWB18NUk8OlnAIpo3ecmAURRMcp2HBw-2F8XkO7A4o8mLvVmvXw7JEzUjm14XHQAXX2Zx5dgMTqImrq1Jwu8yc">
+                        <img style="width:24px;"
+                            src="https://d3k81ch9hvuctc.cloudfront.net/company/SnmteT/images/6d540007-4214-4b76-b5d4-889af3df6e7f.png"
+                            alt="Instagram">
+                    </a>
+                    <a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqhXMaxK3UB9MnK5PMdUHDkmYATxXPXRIsI-2FWPSXbALcgg9GD98HhEHUhpVSm8nM3Oy4C8Ys-2F32r6YNQX1BaocijS8-2FvcfGsedd-2BEPOz7uR5-2F6Tso5OsJBsnNzY6qksYh-2FufSqi4YyxqhYV33UaUdLm6mFYk874WMNvZNVIe-2BJ7Lp69UIw-2B6qtypdxRW0thvThu-2Bmt3tlz8tnhxwJSzHxa2yxS8ELw1m1cVezo5PxaSiBB5Hk0vByCjrbA9te7e1PiacpfDTxnye5pgbmdbCyghCO8He1VW8BawpGJm1WOPRsb3bk_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvBBTNcY7ImiCKUK7Um9oyGsh-2F743XjoQZuxfSzGroqtsoi-2FB0-2Ftb23GAZMzZ3eOvL9cYQmrEtWBX9eHkyLUFje0GtVoLG3XFjsfWmuY-2ByU-2FhvIopJzIGqwdpCTaGZ-2BLdYjg06AB7KKtc0eVRBIuannlZUFErEDtDNwqYgUMCswBDI0zKAQ9Fsr62UKBCUxDUT">
+                        <img style="width:24px;"
+                            src="https://d3k81ch9hvuctc.cloudfront.net/company/SnmteT/images/8db6c2e2-0d47-4125-b570-949a926363c0.png"
+                            alt="Facebook">
+                    </a>
+                    <a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqkdsXzXNby3iVckngqfrARuSR0S9ihGkT-2FV156hmRCF8i1pODleJSH9brc6RK8lNhS0Trzv9vASyt9D5BKc1u-2Flnziy3LaoitEh0TH40Cd9q2dw8NTMCzJ7F7JNXPFrJFdORV8GwuyhdmZvLoxbH-2FIhrj-2FDDZaJoGB-2BtLgAS-2BRYCShymDHd13FQ4alnfCHOsVbdEALcY2Ls-2B3oPoOgGarwnarvIO4tQEs3ZhFXdfGn7pmLkBjC1acgCVJ8V85PKhdsQLWQf3bfDAXEfQzkDCc-2BY-3DZQF3_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvN-2FwgbCYfJj2lT4ruEgjP-2Fw64aYZBtpUAfETR-2FGNHvvJOewrQGTgCbzri1ylRs9kKurYW9drw16DMuTkJTrw2pV5W5Fhnun-2BAIl-2BEV-2FTVu-2BlyX9CNc0E62rv9nKrIf9EcGbzv1E55v2CsbBAQtaYuA4xyNMG-2FFZH0si2jnAPIFnSh-2Fq9bYDiG-2FkptGPGNBloW">
+                        <img style="width:24px;"
+                            src="https://d3k81ch9hvuctc.cloudfront.net/company/SnmteT/images/8ab7cf53-c805-40ef-9edb-8f25d126ede4.png"
+                            alt="Tiktok">
+                    </a>
+                    <a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqt4AUAudF6n4Ve-2F6bJlVIdBzOBdBMG7D5-2BsAlIjvKmUdoWjiAcIFNjXfyvUaugz-2FTVpw3lprjdcEjMr-2BjIhrrs2wMzaCRZUB1gVGPhUPTkQLbg0vGotz35tOczPKPFEHcASWhJePmlfDQL4eDvfWYdI3-2BerHhxHnseY-2FVB-2BsICLbMS9DDK5wby9cSNM0-2BnN8m97eNpbISjqXXwXl3UKcI-2F2Wlc-2B8O-2FMObEObllo3HTGlFG1iXcrLuER0hrJn33RkvBZhad5NOB1VdzyFsSujENM-3D2Kt8_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbv0zwnm1RpGINErQexSZrVTGqLzWDZp4ghWIUzVvlJUTKcn5CgDWV8-2B7N18z2V5uVoy4E1xOoMUQzOoYhq3C552xmQxvSFyJhhssYH8NmjcbRhRDaOkZz13P6QpwZThgEUUyyJJdfNqyh-2BtD7B89Zh1N-2B8x7ZQ9-2BeB1AD-2F0yKbC-2FC1KwswLmmL4tX154SuQ-2FaO">
+                        <img style="width:24px;"
+                            src="https://d3k81ch9hvuctc.cloudfront.net/company/SnmteT/images/c15699fe-7f2a-4fa0-b57a-6b04e13b089b.png"
+                            alt="Twitter">
+                    </a>
+                    <a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqgkMUYJdF5KZ-2FFRDk7wRCYKEoQGo0vbiqZL2-2FiNl5BvU9vGJ0TmYwPow9XuikxT8cu0fEXs7EWM9Mrp1KuQqj6C06Msidr6FpOgRVm2qco7oGscHp6SCvlo6-2FQdKds2hjMHMaVDeyESK-2BET5Kt8cR-2FP9eyFgfrYJuXntwo6zxd-2BMhfoTTilQ243tUUQzT9GNuXKFs6hwxPaE9L6XMd86G9BuEo-2BaZ2GYRSjCmiRyZoDxHna3I-2FMrMPx-2F1O4YNgYHtVRvzMpcjoskFs23PmgeG0mHM6iugj-2FJwKa-2BR-2BROEsFQU7hu_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvCOCeNcd172T5XOoVyDLN1JSYvcmK41XF7BuLS45-2FkgO-2BbnUghP1gWAmnAxdS9H2zyvDLzjdrCNC46Q-2FnH5RmTEumQgTaqH-2F1Qp0WTt13rYZLJmcayGkJD6i3tNVk9dCa-2F6fBe-2FlRjlOWjzmvm5jxvM54VtSFSWGNLNYSrkJ5BWVgAuI-2B6-2BwJ-2FxHjtoVsDp5T">
+                        <img style="width:24px;"
+                            src="https://d3k81ch9hvuctc.cloudfront.net/company/SnmteT/images/d8dc3558-a5e9-4f04-bace-64c2bd44991b.png"
+                            alt="Linkedin">
+                    </a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- social links -->
+        <!-- footer -->
+        <mj-section background-color="#dff3eb" padding="0 0 5px">
+            <mj-column padding="0">
+                <mj-text align="center" font-size="12px" color="#00444e">
+                    <a href="https://parcel.io/playground?theme=rge#" style="color:inherit;">Manage preferences</a> | <a href="https://parcel.io/playground?theme=rge#"
+                        style="color:inherit;">Unsubscribe</a> <br>
+                    Sent with love from Charleston, SC <br>
+                </mj-text>
+                <mj-text align="center" font-size="12px" color="#00444e">
+                    Copyright © 2023 Natalist, All rights reserved. <br>
+                    Natalist 295 Seven Farms Drive Ste. C-148 Charleston, South Carolina 29492
+                </mj-text>
+                <mj-text align="center" font-size="10px" color="#00444e">
+                    Valid on Natalist.com only. <a href="https://trk.klclick.com/ls/click?upn=3k8oK0svqYUA-2BVeG9YSEqtZeQyTfLdNkII3rkORx4Nc-2FTmeKY8zO4RvfL2FC9CXUu-2Bc2ZVcBRuqVfEjKGEy-2FuHUS1uavL6ua4dplhMArKUrr04e-2BhIDJ7GzCHZK24OrWvCMmkuUoj-2FWCb1Rw8nzU8xh9jhWZXJ9BLCUaW3tzc1ae3Kh-2BrtHUiQmSweALRToYFYT119ODGARoaMJSTy6HWCVN3mZlHGC3YqHuce69P3Xc4eGYRk1aRLIHpMN79VQgZZxa9kGlV73-2BWcVBXPwBfxdDqO-2FpFwJeXPnsUMIalZ0-3DtDsf_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RaezLZVKq9mDAgCj12VdJFb5wEXbmECbOdF2GsOWr6KS2SZuigLEk6c3oMkK1vPF81FOsQdnjiVLX4-2B9Pxyabjldz-2BN2d8-2FkE-2B6r63a6QfgdYneOaut8oTjGjTXKUWzTKeQPiRKRyVfLwvK1NqoyUKHBE1Mc-2Fium-2BLQ5WmYk06kDKv7ROLp3L-2BXExF1LLjFbvykCKTZiY80HtHUi7Io3jTTRixalAVsCh4xKcEEPQeRlKlyTdA9E8Qp2jvn0sPHzdYDnaj2uyewKQVWWNzvl6TvSSC2yxXlQn5yvusMCuITcPkgde-2F4q-2FlJNWzBmX9wSHab2HmuIfLJE3zMielS7WAdnQ6It-2BEs8mrUDu40A3pD0UG6EcAUwHvBpgu6tbzfTu" style="color:inherit;">Exclusions apply.</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- footer -->
+    </mj-body>
+</mjml>
